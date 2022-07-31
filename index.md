@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# regression testing
+# Regression testing
 
 To apply regression to analyze share pattern.
 
